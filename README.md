@@ -2,6 +2,8 @@
 
 This project ports the **Just Boot (`just_boot`)** feature of [surrealra1n](https://github.com/pwnerblu/surrealra1n) to Windows as a standalone executable. It is **intended only for A12 / A13 devices** (iPhone 11 / SE 2, etc.) by MYD.
 
+### Attention:This tool runs perfectly on Windows 11, iPhone SE (2nd Generation).You should try it on your own.
+
 The program performs two tasks:
 
 1. **Automatically extracts, decrypts, and patches `iBSS.boot` from the IPSW firmware you provide.**
